@@ -1,0 +1,59 @@
+.backg {
+  background-color: #9ba9eb;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.inputcontainer {
+  background-color: #5763a5;
+  display: flex;
+  border-radius: 15px;
+  margin: 15px;
+  min-width: 80vw;
+  padding: 40px;
+  justify-content: space-between;
+}
+
+.inputcontainer1 {
+  background-color: #454f84;
+  padding: 5px;
+  max-width: 35vw;
+}
+
+.inputcon {
+  display: flex;
+  width: 30vw;
+  height: fit-content;
+  background-color: white;
+  border: ridge;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+input {
+  border: none;
+  width: 30vw;
+}
+
+.butstye {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.passlengthsty {
+  display: flex;
+  justify-content: space-between;
+  max-width: 300px;
+  align-items: center;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.io {
+  display: flex;
+  flex-direction: row-reverse;
+}
